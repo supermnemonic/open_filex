@@ -6,7 +6,7 @@ import 'package:open_filex/open_filex.dart';
 void main() => runApp(const MyApp());
 
 class MyApp extends StatefulWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({Key key}) : super(key: key);
 
   @override
   MyAppState createState() => MyAppState();
